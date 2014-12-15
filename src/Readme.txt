@@ -1,0 +1,1 @@
+Basic Java cources work in class + homeworks.
